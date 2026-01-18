@@ -1,0 +1,7 @@
+## Interface: 11000
+## Title: Anti-AFK
+## Notes: An Anti-AFK Script
+
+libs\ChatThrottleLib.lua
+
+antiafk.xml
